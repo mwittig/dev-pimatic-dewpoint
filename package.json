@@ -41,10 +41,9 @@
     }
   ],
   "configSchema": "dewpoint-config-schema.coffee",
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
-    "pimatic": "0.8.*"
+    "pimatic": "0.8.100"
   },
   "engines": {
     "node": ">0.8.x",
